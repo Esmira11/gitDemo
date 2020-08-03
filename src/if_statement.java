@@ -4,8 +4,12 @@ public class if_statement {
         int b=3;
         if (a>b){
             System.out.println(a);
+
+
+
+
         }else{
-            System.out.println(b);
+            System.out.println("max number is "+b);
         }
     }
 }
